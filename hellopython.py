@@ -1,1 +1,2 @@
-print(First python program)
+
+print('hello python!')
